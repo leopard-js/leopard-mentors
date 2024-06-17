@@ -1,12 +1,12 @@
 labels: []
-title: ""
 body:
 - type: markdown
-  value: |
-    ## Cleanup Crew Request Form
-    If you are trying to convert a Scratch project to JavaScript using Leopard and something isn't working,
-    the Leopard Mentors Cleanup Crew can help! Use the form below to explain the situation, and Leopard Mentors
-    will reply with helpful advice. Be sure to check back later to read any comments they send!
+  attributes:
+    value: |
+      ## Cleanup Crew Request Form
+      If you are trying to convert a Scratch project to JavaScript using Leopard and something isn't working,
+      the Leopard Mentors Cleanup Crew can help! Use the form below to explain the situation, and Leopard Mentors
+      will reply with helpful advice. Be sure to check back later to read any comments they send!
 - type: input
   id: scratch-project
   attributes:
