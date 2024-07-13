@@ -17,7 +17,7 @@ body:
   id: leopard-project
   attributes:
     label: Leopard Project URL
-    description: "A link to the Leopard project that you need help cleaning up"
+    description: "A link to the Leopard project that you need help cleaning up. **Please remember to click \"share\" on your project!**"
     placeholder: "https://leopardjs.com/projects/.../"
 - type: checkboxes
   id: problem-type
